@@ -1,0 +1,5 @@
+path: /kaggle/working/dataset
+train: images/train
+val: images/valid
+nc: 1
+names: ["human"]

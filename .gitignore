@@ -1,0 +1,67 @@
+# =========================
+# Unity
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# IDE
+.vs/
+.idea/
+
+# Backup archives
+*.zip
+*.rar
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# =========================
+# YOLO
+# =========================
+runs/
+wandb/
+mlruns/
+
+# Dataset
+dataset/
+datasets/
+coco_person/
+
+# =========================
+# Python / YOLO outputs
+# =========================
+*.cache
+
+# PPO training results
+results/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Misc
+# =========================
+UpgradeLog.htm
